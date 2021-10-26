@@ -11,6 +11,7 @@ h3{
 }
 .destination-content{
     display: flex;
+    justify-content: space-between;
     padding: 0 140px;
 }
 .planets{
@@ -19,6 +20,9 @@ h3{
 .planets a{
     margin-left: 0;
     margin-right: 30px;
+}
+.planet-stats{
+    max-width: 445px;
 }
 h1{
     color: white;
