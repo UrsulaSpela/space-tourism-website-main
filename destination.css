@@ -5,10 +5,6 @@ body{
 #destination{
     border-bottom: 1px solid white;
 }
-h3{
-    color: white;
-    margin: 50px;
-}
 .destination-content{
     display: flex;
     justify-content: space-between;

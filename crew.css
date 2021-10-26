@@ -2,3 +2,33 @@ body{
     background: url(assets/crew/background-crew-desktop.jpg) no-repeat;
     background-size:cover;
 }
+.crew-content{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 140px;
+    align-items: center;
+}
+h1{
+    font-size: 56px;
+    color: white;
+    font-family: 'Bellefair', serif;
+    text-transform: uppercase;
+}
+.crew-content img{
+    position: relative;
+    bottom: 100px;
+}
+.dots{
+    display: flex;
+}
+.dots a{
+    margin-left: 0;
+    margin-right: 15px;
+}
+.dot{
+    width: 15px;
+    height: 15px;
+    background: white;
+    border-radius: 50%;
+    opacity: .2;
+}

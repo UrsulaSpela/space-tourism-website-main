@@ -41,6 +41,11 @@ a{
     margin-left: 30px;
     padding: 20px 0;
 }
+h3{
+    color: white;
+    margin: 50px;
+    text-transform: uppercase;
+}
 p{
     color: #D0D6F9;
     font-family: 'Barlow', sans-serif;
