@@ -1,0 +1,9 @@
+body{
+    background: url(assets/home/background-home-desktop.jpg) no-repeat;
+    background-size: cover;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+    padding: 160px;
+}
