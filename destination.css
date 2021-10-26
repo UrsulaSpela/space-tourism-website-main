@@ -2,3 +2,31 @@ body{
     background: url(assets/destination/background-destination-desktop.jpg) no-repeat;
     background-size: cover;
 }
+#destination{
+    border-bottom: 1px solid white;
+}
+h3{
+    color: white;
+    margin: 50px;
+}
+.destination-content{
+    display: flex;
+    padding: 0 140px;
+}
+.planets{
+    display: flex;
+}
+.planets a{
+    margin-left: 0;
+    margin-right: 30px;
+}
+h1{
+    color: white;
+    font-size: 100px;
+    font-family: 'Bellefair', serif;
+    text-transform: uppercase;
+}
+.planets-hr{
+    border: .1px solid white;
+    left: 0;
+}
