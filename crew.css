@@ -36,3 +36,6 @@ h1{
     border-radius: 50%;
     opacity: .2;
 }
+.selected{
+    opacity: 1;
+}
