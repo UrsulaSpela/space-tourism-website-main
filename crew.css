@@ -5,8 +5,12 @@ body{
 .crew-content{
     display: flex;
     justify-content: space-between;
-    padding: 0 140px;
+    padding: 0 120px;
     align-items: center;
+}
+h4{
+    color: #D0D6F9;
+    text-transform: uppercase;
 }
 h1{
     font-size: 56px;
