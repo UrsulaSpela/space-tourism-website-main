@@ -2,3 +2,22 @@ body{
     background: url(assets/technology/background-technology-desktop.jpg) no-repeat;
     background-size: cover;
 }
+.tech-content{
+    display: flex;
+    align-items: center;
+}
+.text-container{
+    display: flex;
+}
+.circle-link{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: .5px solid white;
+}
+h1{
+    color: white;
+    font-size: 56px;
+    font-family: 'Bellefair', serif;
+    text-transform: uppercase;
+}
