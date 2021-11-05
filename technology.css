@@ -5,6 +5,7 @@ body{
 .tech-content{
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 .text-container{
     display: flex;
@@ -15,9 +16,15 @@ body{
     border-radius: 50%;
     border: .5px solid white;
 }
+.circle-link:hover{
+    background-color: white;
+}
 h1{
     color: white;
     font-size: 56px;
     font-family: 'Bellefair', serif;
     text-transform: uppercase;
+}
+.tech-text{
+    width: 470px;
 }
