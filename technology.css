@@ -24,6 +24,11 @@ body{
     background: white;
     color: black;
 }
+h4{
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Bellefair', serif;
+}
 h1{
     color: white;
     font-size: 56px;
