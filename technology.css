@@ -15,9 +15,14 @@ body{
     height: 80px;
     border-radius: 50%;
     border: .5px solid white;
+    font-size: 32px;
+    line-height: 80px;
+    margin-bottom: 30px;
+    margin-right: 50px;
 }
 .circle-link:hover{
-    background-color: white;
+    background: white;
+    color: black;
 }
 h1{
     color: white;
