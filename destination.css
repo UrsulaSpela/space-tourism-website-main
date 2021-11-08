@@ -30,3 +30,8 @@ h1{
     border: .1px solid white;
     left: 0;
 }
+@media only screen and (max-width: 768px){
+    body{
+        background: url(assets/destination/background-destination-tablet.jpg) no-repeat;
+    }
+}
